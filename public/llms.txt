@@ -7,69 +7,69 @@
 ## Pages
 
 ### דף הבית
-https://rhino-tire-israel-0fd9dc4b.zappy5.app
+https://example.com
 מיגון צמיגים נגד פנצ&#39;ר לאופנוע, מוסך מורשה ואביזרים פרימיום — הכול תחת קורת גג אחת בתל אביב. מעל 10 שנות ניסיון, אישורי טכניון ותקנים בינלאומיים. גלה את ההבדל.
 
 ### הגנת צמיגים
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/tyre-protection
+https://example.com/tyre-protection
 מערכת מיגון הצמיגים המתקדמת של ריינו, מאושרת על ידי הטכניון ועומדת בתקנים E4, DOT ו-ISO. הגן על הצמיגים שלך עוד היום ורכב בביטחון מלא בכל תנאי דרך.
 
 ### מוסך אופנועים
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/motorcycle-garage
+https://example.com/motorcycle-garage
 מוסך אופנועים מורשה בתל אביב עם אבחון ממוחשב מקצועי, טיפולים מלאים לאופנועים וקטנועים וצוות טכנאים מנוסה. קבע תור עכשיו ותרגיש את ההבדל בביצועים.
 
 ### ציוד ואביזרים
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/gear-accessories
+https://example.com/gear-accessories
 חנות אביזרי אופנועים מהמובילות בישראל — תושבות Quad Lock, קסדות, ציוד בטיחות ואביזרי פרימיום למותגים מובילים. מבחר עצום, מחירים תחרותיים ומשלוח מהיר לכל הארץ.
 
 ### מרכז ידע ושאלות נפוצות
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/faq
+https://example.com/faq
 מרכז הידע של ריינו טייר ישראל: תשובות מקצועיות לשאלות על מיגון צמיגים, אבחון ממוחשב, טיפולי אופנוע ובחירת אביזרים. חסוך זמן וקבל את המידע שאתה צריך כאן.
 
 ### Products
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ריינו טייר ישראל (Rhino Tire Israel)
 
 ### Cart
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ריינו טייר ישראל (Rhino Tire Israel)
 
 ### Category
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ריינו טייר ישראל (Rhino Tire Israel)
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://rhino-tire-israel-0fd9dc4b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Motorcycle Parts, Accessories & Garage Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://rhino-tire-israel-0fd9dc4b.zappy5.app/sitemap.xml
-- Robots: https://rhino-tire-israel-0fd9dc4b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://rhino-tire-israel-0fd9dc4b.zappy5.app/llms-full.txt
-- Products (JSON): https://rhino-tire-israel-0fd9dc4b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://rhino-tire-israel-0fd9dc4b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

@@ -2,13 +2,13 @@
 
 Rhino Tire Israel is a premium motorcycle-focused brand with over 10 years of industry experience and an international distribution network spanning the USA, Europe, Australia, South America, Canada, and South Africa. The brand combines a high-performance, sporty identity with professional garage services and a full accessories shop under one roof in Tel Aviv. Their flagship offering is an advanced tyre protection system approved by the Technion and certified to leading international standards (E4, DOT, ISO, CCC, and more), positioning them as the go-to one-stop-shop for Israeli motorcycle riders seeking safety, performance, and premium gear.
 
-Source: https://rhino-tire-israel-0fd9dc4b.zappy5.app
+Source: https://example.com
 
 ---
 
 ## רוכבים חכמים בוחרים ריינו — ריינו טייר ישראל (Rhino Tire Israel)
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app
+URL: https://example.com
 Description: מיגון צמיגים נגד פנצ&#39;ר לאופנוע, מוסך מורשה ואביזרים פרימיום — הכול תחת קורת גג אחת בתל אביב. מעל 10 שנות ניסיון, אישורי טכניון ותקנים בינלאומיים. גלה את ההבדל.
 
 רוכבים חכמים בוחרים ריינו — ריינו טייר ישראל (Rhino Tire Israel)
@@ -660,7 +660,7 @@ ONE-STOP-SHOP · תל אביב
 
 ## אפס פנצ&#39;רים על הכביש — ריינו טייר ישראל (Rhino Tire Israel)
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/tyre-protection
+URL: https://example.com/tyre-protection
 Description: מערכת מיגון הצמיגים המתקדמת של ריינו, מאושרת על ידי הטכניון ועומדת בתקנים E4, DOT ו-ISO. הגן על הצמיגים שלך עוד היום ורכב בביטחון מלא בכל תנאי דרך.
 
 אפס פנצ'רים על הכביש — ריינו טייר ישראל (Rhino Tire Israel)
@@ -1331,7 +1331,7 @@ SNI
 
 ## האבחון המדויק שהאופנוע שלך מחכה לו — ריינו טייר ישראל (Rhino Tire Israel)
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/motorcycle-garage
+URL: https://example.com/motorcycle-garage
 Description: מוסך אופנועים מורשה בתל אביב עם אבחון ממוחשב מקצועי, טיפולים מלאים לאופנועים וקטנועים וצוות טכנאים מנוסה. קבע תור עכשיו ותרגיש את ההבדל בביצועים.
 
 האבחון המדויק שהאופנוע שלך מחכה לו — ריינו טייר ישראל (Rhino Tire Israel)
@@ -1851,7 +1851,7 @@ Description: מוסך אופנועים מורשה בתל אביב עם אבחו�
 
 ## שדרג את הרכיבה עם הציוד הנכון — ריינו טייר ישראל (Rhino Tire Israel)
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/gear-accessories
+URL: https://example.com/gear-accessories
 Description: חנות אביזרי אופנועים מהמובילות בישראל — תושבות Quad Lock, קסדות, ציוד בטיחות ואביזרי פרימיום למותגים מובילים. מבחר עצום, מחירים תחרותיים ומשלוח מהיר לכל הארץ.
 
 שדרג את הרכיבה עם הציוד הנכון — ריינו טייר ישראל (Rhino Tire Israel)
@@ -2414,7 +2414,7 @@ Description: חנות אביזרי אופנועים מהמובילות בישר�
 
 ## כל התשובות לפני שיוצאים לדרך — ריינו טייר ישראל (Rhino Tire Israel)
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/faq
+URL: https://example.com/faq
 Description: מרכז הידע של ריינו טייר ישראל: תשובות מקצועיות לשאלות על מיגון צמיגים, אבחון ממוחשב, טיפולי אופנוע ובחירת אביזרים. חסוך זמן וקבל את המידע שאתה צריך כאן.
 
 כל התשובות לפני שיוצאים לדרך — ריינו טייר ישראל (Rhino Tire Israel)
@@ -3008,7 +3008,7 @@ Google מציג עד  3 שאלות  כ-Rich Snippet בתוצאות החיפוש.
 
 ## מוצרים
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - ריינו טייר ישראל (Rhino Tire Israel)
 
 מוצרים - ריינו טייר ישראל (Rhino Tire Israel)
@@ -3287,7 +3287,7 @@ Description: המוצרים שלנו - ריינו טייר ישראל (Rhino Tir
 
 ## עגלת קניות
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - ריינו טייר ישראל (Rhino Tire Israel)
@@ -3542,7 +3542,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - ריינו טייר ישראל (Rhino Tire Israel)
@@ -3983,7 +3983,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - ריינו טייר ישראל (Rhino Tire Israel)
@@ -4245,7 +4245,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - ריינו טייר ישראל (Rhino Tire Israel)
@@ -4662,7 +4662,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - ריינו טייר ישראל (Rhino Tire Israel)
@@ -4941,7 +4941,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - ריינו טייר ישראל (Rhino Tire Israel)
@@ -5249,7 +5249,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - ריינו טייר ישראל (Rhino Tire Israel)
 
 פרטי המוצר - ריינו טייר ישראל (Rhino Tire Israel)
@@ -5506,7 +5506,7 @@ Description: פרטי המוצר - ריינו טייר ישראל (Rhino Tire Is
 
 ## מוצרים
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - ריינו טייר ישראל (Rhino Tire Israel)
 
 מוצרים - ריינו טייר ישראל (Rhino Tire Israel)
@@ -5787,7 +5787,7 @@ Description: מוצרים - ריינו טייר ישראל (Rhino Tire Israel)
 
 ## מדיניות פרטיות
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -6087,7 +6087,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -6396,7 +6396,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://rhino-tire-israel-0fd9dc4b.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
